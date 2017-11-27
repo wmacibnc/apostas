@@ -1,0 +1,14 @@
+{
+  "name": "apostas",
+  "app_id": "7dfff6a2",
+  "type": "ionic-angular",
+  "proxies": [
+    {
+      "path": "/api",
+      "proxyUrl": "/api.cartolafc.globo.com"
+    }  
+  ],
+  "integrations": {
+    "cordova": {}
+  }
+}
